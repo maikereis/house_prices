@@ -4,3 +4,4 @@ output/*.csv
 .ipynb_checkpoints/
 output/
 data/
+models/
