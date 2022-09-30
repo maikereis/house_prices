@@ -19,7 +19,7 @@ idna==3.3
 ipykernel==6.6.0
 ipython==7.31.1
 jedi==0.18.1
-joblib==1.1.0
+joblib==1.2.0
 jupyter-client==7.1.0
 jupyter-core==4.9.1
 kaggle==1.5.12
